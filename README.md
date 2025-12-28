@@ -1,5 +1,4 @@
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/mfr-fr/sms-sender/main/back/banniere.png", width="500", height="500">
 </p>
